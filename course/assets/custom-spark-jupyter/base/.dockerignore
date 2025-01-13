@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!start.sh
+!start-notebook.sh
+!start-singleuser.sh
+!jupyter_notebook_config.py 
+
